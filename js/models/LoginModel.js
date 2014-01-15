@@ -10,7 +10,7 @@ define([
         Model.namespace = 'googleLogin';
 
         Model.code = Backbone.Model.extend({
-            localStorage: new Backbone.LocalStorage('AppArenaAdventskalenderApp_' + _.aa.instance.aa_inst_id + '_GpLoginData'),
+            localStorage: new Backbone.LocalStorage('AppArenaAdventskalenderApp_' + _.aa.instance.i_id + '_GpLoginData'),
 
             defaults: {
                 'id':         1,
