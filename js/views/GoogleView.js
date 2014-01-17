@@ -14,7 +14,7 @@ define([
     'jquery',
     'underscore',
     'backbone',
-    'modules/google/js/models/LoginModel',
+    'modules/aa_app_mod_google/js/models/LoginModel',
     'google_api'
 ], function (View, $, _, Backbone, LoginModel, gapi) {
     'use strict';
