@@ -1,5 +1,5 @@
 # App-Arena.com App Module: Facebook
-Github: https://github.com/apparena/aa_app_mod_facebook
+Github: https://github.com/apparena/aa_app_mod_google
 
 Docs:   http://www.app-arena.com/docs/display/developer
 
@@ -18,5 +18,5 @@ This is a module of the [aa_app_template](https://github.com/apparena/aa_app_tem
 
 ### Load module with require
 ```
-modules/facebook/js/views/FacebookView
+modules/aa_app_mod_google/js/views/FacebookView
 ```
