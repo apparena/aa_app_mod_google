@@ -10,7 +10,7 @@ define([
         Model.namespace = 'googleLogin';
 
         Model.code = Backbone.Model.extend({
-            localStorage: new Backbone.LocalStorage('AppArenaAdventskalenderApp_' + _.aa.instance.i_id + '_GpLoginData'),
+            localStorage: new Backbone.LocalStorage('aa_app_mod_google_' + _.aa.instance.i_id + '_GpLoginData'),
 
             defaults: {
                 'id':         1,
@@ -21,7 +21,8 @@ define([
                 'lastname':   '',
                 'avatar':     '',
                 'gender':     'men',
-                'login_type': 'gpuser'
+                'login_type': 'gpuser',
+                'logintime':  ''
             }
         });
 

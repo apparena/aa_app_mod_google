@@ -176,7 +176,7 @@ define([
                         if (typeof( response.nickname ) !== 'undefined' && response.nickname.length > 0) {
                             data.nickname = response.nickname;
                         }
-
+                        data.logintime = _.uniqueId();
                         that.modelGpLogin.set(data);
                         that.modelGpLogin.save();
                     });
