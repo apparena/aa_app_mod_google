@@ -1,6 +1,5 @@
 # App-Arena.com App Module: Facebook
-Github: https://github.com/apparena/aa_app_mod_googlefixed
-
+Github: https://github.com/apparena/aa_app_mod_google
 
 Docs:   http://www.app-arena.com/docs/display/developer
 
