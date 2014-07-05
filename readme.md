@@ -1,9 +1,7 @@
 # App-Arena.com App Module: Facebook
-**Github:** https://github.com/apparena/aa_app_mod_google
-
-**Docs:** http://www.app-arena.com/docs/display/developer
-
-This is a module of the [aa_app_template](https://github.com/apparena/aa_app_template)
+* **Github:** https://github.com/apparena/aa_app_mod_google
+* **Docs:** http://www.app-arena.com/docs/display/developer
+* This is a module of the [aa_app_template](https://github.com/apparena/aa_app_template)
 
 **Required Template-Version:** >= 1.3.0
 

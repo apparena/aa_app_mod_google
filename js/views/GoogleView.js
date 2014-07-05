@@ -93,7 +93,7 @@ define([
             },
 
             follow: function (callback, element) {
-                //$(element).data('callback', callback);
+                $(element).data('callback', callback);
             },
 
             addClickEventListener: function () {
