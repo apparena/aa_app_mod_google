@@ -1,9 +1,8 @@
-# App-Arena.com App Module: Facebook
+# App-Arena.com App Module: Google
 * **Github:** https://github.com/apparena/aa_app_mod_google
 * **Docs:** http://www.app-arena.com/docs/display/developer
 * This is a module of the [aa_app_template](https://github.com/apparena/aa_app_template)
-
-**Required Template-Version:** >= 1.3.0
+* **Required Template-Version:** >= 1.3.0
 
 ## Module job
 Implements some google API functions to login and share over google. This is used for example in the fangate and auth module.
